@@ -69,13 +69,3 @@ htmltools::tags$br()
 htmltools::tags$hr(style = "width:75%")
 ```
 
-
-```{r}
-# nps <- readr::read_csv("NPS_county_codes.csv")
-# nps$FIPS <- paste0(nps$STATEFP, nps$COUNTYFP)
-# 
-# new_jn <- left_join(cnt, nps, by = "FIPS")
-# in_nps <- new_jn %>% filter(!is.na(UNIT_NAME))
-# unique(in_nps$`Scientific Name`) %>% length()
-# rio::export(in_nps, "ESA_county_X_NPS.csv")
-```
