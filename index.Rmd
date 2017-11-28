@@ -1,0 +1,81 @@
+---
+title: "Counties of Occurrence of ESA-listed Species"
+author: "Defenders of Wildlife"
+output: html_document
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(dplyr)
+library(DT)
+library(RPostgreSQL)
+library(secret)
+
+con <- dbConnect(
+  dbDriver("PostgreSQL"),
+  dbname = "postgres",
+  user = ESC_DB_USR,
+  password = get_secret(ESC_DB_PW, key = priv_key, vault),
+  host = ESC_DB
+)
+
+cnt <- dbSendQuery(con, "select * from esa_county_occurrences") %>% 
+  dbFetch() %>%
+  select(-state_abbreviation)
+
+names(cnt) <- c(
+  "Common Name",
+  "Scientific Name",
+  "URL",
+  "County Name",
+  "FIPS",
+  "State"
+)
+
+cnt <- select(cnt, c(1:4, 6, 5))
+```
+
+<hr style='width=75%'>
+
+This table provides basic search and filtering of the counties of occurrence for 
+ESA-listed species based on the data available through the [U.S. Fish and Wildlife Service's](http://www.fws.gov) 
+[ECOS](https://ecos.fws.gov) website. 
+
+Type searches into the filter box in the 
+top-right to filter across all columns, or use the search boxes at the top of 
+each column for column-specific filtering. Click the arrows at the top of columns
+to sort.
+
+<hr style='width=75%'>
+
+```{r tab, echo = FALSE, warning = FALSE}
+DT::renderDataTable(
+  cnt,
+  server = TRUE,
+  filter = "top",
+  escape = FALSE,
+  extensions = "Buttons",
+  options = list(
+    pageLength = 25,
+    lengthMenu = c(10, 25, 50, 100),
+    dom = 'Bfrtip',
+    buttons = c('copy', 'excel', 'print')
+  )
+)
+
+htmltools::tags$br()
+htmltools::tags$br()
+htmltools::tags$hr(style = "width:75%")
+```
+
+
+```{r}
+# nps <- readr::read_csv("NPS_county_codes.csv")
+# nps$FIPS <- paste0(nps$STATEFP, nps$COUNTYFP)
+# 
+# new_jn <- left_join(cnt, nps, by = "FIPS")
+# in_nps <- new_jn %>% filter(!is.na(UNIT_NAME))
+# unique(in_nps$`Scientific Name`) %>% length()
+# rio::export(in_nps, "ESA_county_X_NPS.csv")
+```

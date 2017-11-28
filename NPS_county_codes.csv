@@ -1,0 +1,862 @@
+OBJECTID,UNIT_NAME,STATEFP,COUNTYFP
+1,Abraham Lincoln Birthplace National Historical Park,21,123
+2,Acadia National Park,23,009
+3,Acadia National Park,23,013
+4,Adams National Historical Park,25,021
+5,Agate Fossil Beds National Monument,31,165
+6,Ala Kahakai National Historic Trail,15,001
+7,Alagnak Wild River,02,164
+8,Alibates Flint Quarries National Monument,48,375
+9,Allegheny Portage Railroad National Historic Site,42,013
+10,Allegheny Portage Railroad National Historic Site,42,021
+11,American Memorial Park,69,110
+12,Amistad National Recreation Area,48,465
+13,Andersonville National Historic Site,13,193
+14,Andersonville National Historic Site,13,261
+15,Aniakchak National Monument,02,164
+16,Aniakchak National Preserve,02,164
+17,Antietam National Battlefield,24,021
+18,Antietam National Battlefield,24,043
+19,Apostle Islands National Lakeshore,55,003
+20,Apostle Islands National Lakeshore,55,007
+21,Appalachian National Scenic Trail,09,001
+22,Appalachian National Scenic Trail,09,005
+23,Appalachian National Scenic Trail,13,111
+24,Appalachian National Scenic Trail,13,123
+25,Appalachian National Scenic Trail,13,137
+26,Appalachian National Scenic Trail,13,187
+27,Appalachian National Scenic Trail,13,241
+28,Appalachian National Scenic Trail,13,281
+29,Appalachian National Scenic Trail,13,291
+30,Appalachian National Scenic Trail,13,311
+31,Appalachian National Scenic Trail,23,007
+32,Appalachian National Scenic Trail,23,017
+33,Appalachian National Scenic Trail,23,021
+34,Appalachian National Scenic Trail,23,025
+35,Appalachian National Scenic Trail,24,021
+36,Appalachian National Scenic Trail,24,043
+37,Appalachian National Scenic Trail,25,003
+38,Appalachian National Scenic Trail,33,003
+39,Appalachian National Scenic Trail,33,007
+40,Appalachian National Scenic Trail,33,009
+41,Appalachian National Scenic Trail,34,031
+42,Appalachian National Scenic Trail,34,037
+43,Appalachian National Scenic Trail,34,041
+44,Appalachian National Scenic Trail,36,027
+45,Appalachian National Scenic Trail,36,071
+46,Appalachian National Scenic Trail,36,079
+47,Appalachian National Scenic Trail,36,087
+48,Appalachian National Scenic Trail,36,119
+49,Appalachian National Scenic Trail,37,011
+50,Appalachian National Scenic Trail,37,043
+51,Appalachian National Scenic Trail,37,075
+52,Appalachian National Scenic Trail,37,087
+53,Appalachian National Scenic Trail,37,113
+54,Appalachian National Scenic Trail,37,115
+55,Appalachian National Scenic Trail,37,121
+56,Appalachian National Scenic Trail,37,173
+57,Appalachian National Scenic Trail,37,199
+58,Appalachian National Scenic Trail,42,001
+59,Appalachian National Scenic Trail,42,011
+60,Appalachian National Scenic Trail,42,025
+61,Appalachian National Scenic Trail,42,041
+62,Appalachian National Scenic Trail,42,043
+63,Appalachian National Scenic Trail,42,055
+64,Appalachian National Scenic Trail,42,075
+65,Appalachian National Scenic Trail,42,077
+66,Appalachian National Scenic Trail,42,089
+67,Appalachian National Scenic Trail,42,095
+68,Appalachian National Scenic Trail,42,099
+69,Appalachian National Scenic Trail,42,107
+70,Appalachian National Scenic Trail,47,009
+71,Appalachian National Scenic Trail,47,019
+72,Appalachian National Scenic Trail,47,029
+73,Appalachian National Scenic Trail,47,059
+74,Appalachian National Scenic Trail,47,091
+75,Appalachian National Scenic Trail,47,155
+76,Appalachian National Scenic Trail,47,163
+77,Appalachian National Scenic Trail,47,171
+78,Appalachian National Scenic Trail,50,003
+79,Appalachian National Scenic Trail,50,021
+80,Appalachian National Scenic Trail,50,025
+81,Appalachian National Scenic Trail,50,027
+82,Appalachian National Scenic Trail,51,003
+83,Appalachian National Scenic Trail,51,009
+84,Appalachian National Scenic Trail,51,015
+85,Appalachian National Scenic Trail,51,019
+86,Appalachian National Scenic Trail,51,021
+87,Appalachian National Scenic Trail,51,023
+88,Appalachian National Scenic Trail,51,043
+89,Appalachian National Scenic Trail,51,045
+90,Appalachian National Scenic Trail,51,061
+91,Appalachian National Scenic Trail,51,071
+92,Appalachian National Scenic Trail,51,077
+93,Appalachian National Scenic Trail,51,079
+94,Appalachian National Scenic Trail,51,107
+95,Appalachian National Scenic Trail,51,113
+96,Appalachian National Scenic Trail,51,121
+97,Appalachian National Scenic Trail,51,125
+98,Appalachian National Scenic Trail,51,139
+99,Appalachian National Scenic Trail,51,157
+100,Appalachian National Scenic Trail,51,161
+101,Appalachian National Scenic Trail,51,163
+102,Appalachian National Scenic Trail,51,165
+103,Appalachian National Scenic Trail,51,173
+104,Appalachian National Scenic Trail,51,185
+105,Appalachian National Scenic Trail,51,187
+106,Appalachian National Scenic Trail,51,191
+107,Appalachian National Scenic Trail,51,197
+108,Appalachian National Scenic Trail,54,037
+109,Appalachian National Scenic Trail,54,063
+110,Appomattox Court House National Historical Park,51,011
+111,Arches National Park,49,019
+112,Arkansas Post National Memorial,05,001
+113,"Arlington House, The Robert E. Lee Memorial",51,013
+114,Assateague Island National Seashore,24,047
+115,Assateague Island National Seashore,51,001
+116,Aztec Ruins National Monument,35,045
+117,Badlands National Park,46,071
+118,Badlands National Park,46,103
+119,Badlands National Park,46,113
+120,Bandelier National Monument,35,028
+121,Bandelier National Monument,35,043
+122,Bandelier National Monument,35,049
+123,Belmont-Paul Women's Equality National Monument,11,001
+124,Bent's Old Fort National Historic Site,08,089
+125,Bering Land Bridge National Preserve,02,180
+126,Bering Land Bridge National Preserve,02,188
+127,Big Bend National Park,48,043
+128,Big Cypress National Preserve,12,011
+129,Big Cypress National Preserve,12,021
+130,Big Cypress National Preserve,12,051
+131,Big Cypress National Preserve,12,086
+132,Big Cypress National Preserve,12,087
+133,Big Hole National Battlefield,30,001
+134,Big South Fork National River and Recreation Area,21,147
+135,Big South Fork National River and Recreation Area,21,231
+136,Big South Fork National River and Recreation Area,47,049
+137,Big South Fork National River and Recreation Area,47,129
+138,Big South Fork National River and Recreation Area,47,137
+139,Big South Fork National River and Recreation Area,47,151
+140,Big Thicket National Preserve,48,199
+141,Big Thicket National Preserve,48,241
+142,Big Thicket National Preserve,48,245
+143,Big Thicket National Preserve,48,291
+144,Big Thicket National Preserve,48,361
+145,Big Thicket National Preserve,48,373
+146,Big Thicket National Preserve,48,407
+147,Big Thicket National Preserve,48,457
+148,Bighorn Canyon National Recreation Area,30,003
+149,Bighorn Canyon National Recreation Area,30,009
+150,Bighorn Canyon National Recreation Area,56,003
+151,Biscayne National Park,12,086
+152,Black Canyon of the Gunnison National Park,08,085
+153,Blue Ridge Parkway,37,005
+154,Blue Ridge Parkway,37,009
+155,Blue Ridge Parkway,37,011
+156,Blue Ridge Parkway,37,021
+157,Blue Ridge Parkway,37,023
+158,Blue Ridge Parkway,37,027
+159,Blue Ridge Parkway,37,087
+160,Blue Ridge Parkway,37,089
+161,Blue Ridge Parkway,37,099
+162,Blue Ridge Parkway,37,111
+163,Blue Ridge Parkway,37,121
+164,Blue Ridge Parkway,37,171
+165,Blue Ridge Parkway,37,173
+166,Blue Ridge Parkway,37,175
+167,Blue Ridge Parkway,37,189
+168,Blue Ridge Parkway,37,193
+169,Blue Ridge Parkway,37,199
+170,Blue Ridge Parkway,51,009
+171,Blue Ridge Parkway,51,015
+172,Blue Ridge Parkway,51,019
+173,Blue Ridge Parkway,51,023
+174,Blue Ridge Parkway,51,035
+175,Blue Ridge Parkway,51,063
+176,Blue Ridge Parkway,51,067
+177,Blue Ridge Parkway,51,077
+178,Blue Ridge Parkway,51,125
+179,Blue Ridge Parkway,51,141
+180,Blue Ridge Parkway,51,161
+181,Blue Ridge Parkway,51,163
+182,Blue Ridge Parkway,51,770
+183,Bluestone National Scenic River,54,055
+184,Bluestone National Scenic River,54,089
+185,Booker T. Washington National Monument,51,067
+186,Boston African American National Historic Site,25,025
+187,Boston Harbor Islands National Recreation Area,25,021
+188,Boston Harbor Islands National Recreation Area,25,023
+189,Boston Harbor Islands National Recreation Area,25,025
+190,Boston National Historical Park,25,025
+191,Brices Cross Roads National Battlefield Site,28,081
+192,Bryce Canyon National Park,49,017
+193,Bryce Canyon National Park,49,025
+194,Buck Island Reef National Monument,78,010
+195,Buffalo National River,05,005
+196,Buffalo National River,05,089
+197,Buffalo National River,05,101
+198,Buffalo National River,05,129
+199,Cabrillo National Monument,06,073
+200,Canaveral National Seashore,12,009
+201,Canaveral National Seashore,12,127
+202,Cane River Creole National Historical Park,22,069
+203,Canyon de Chelly National Monument,04,001
+204,Canyonlands National Park,49,017
+205,Canyonlands National Park,49,019
+206,Canyonlands National Park,49,037
+207,Canyonlands National Park,49,055
+208,Cape Cod National Seashore,25,001
+209,Cape Hatteras National Seashore,37,055
+210,Cape Hatteras National Seashore,37,095
+211,Cape Krusenstern National Monument,02,188
+212,Cape Lookout National Seashore,37,031
+213,Capitol Reef National Park,49,015
+214,Capitol Reef National Park,49,017
+215,Capitol Reef National Park,49,041
+216,Capitol Reef National Park,49,055
+217,Capulin Volcano National Monument,35,059
+218,Carl Sandburg Home National Historic Site,37,089
+219,Carlsbad Caverns National Park,35,015
+220,Casa Grande Ruins National Monument,04,021
+221,Castillo de San Marcos National Monument,12,109
+222,Castle Clinton National Monument,36,061
+223,Castle Mountains National Monument,06,071
+224,Catoctin Mountain Park,24,021
+225,Catoctin Mountain Park,24,043
+226,Cedar Breaks National Monument,49,021
+227,Cedar Creek and Belle Grove National Historical Park,51,069
+228,Cedar Creek and Belle Grove National Historical Park,51,171
+229,Cedar Creek and Belle Grove National Historical Park,51,187
+230,Cesar E. Chavez National Monument,06,029
+231,Chaco Culture National Historical Park,35,031
+232,Chaco Culture National Historical Park,35,045
+233,Chamizal National Memorial,48,141
+234,Channel Islands National Park,06,083
+235,Channel Islands National Park,06,111
+236,Charles Pinckney National Historic Site,45,019
+237,Charles Young Buffalo Soldiers National Monument,39,057
+238,Chattahoochee River National Recreation Area,13,067
+239,Chattahoochee River National Recreation Area,13,117
+240,Chattahoochee River National Recreation Area,13,121
+241,Chattahoochee River National Recreation Area,13,135
+242,Chesapeake and Ohio Canal National Historical Park,11,001
+243,Chesapeake and Ohio Canal National Historical Park,24,001
+244,Chesapeake and Ohio Canal National Historical Park,24,021
+245,Chesapeake and Ohio Canal National Historical Park,24,031
+246,Chesapeake and Ohio Canal National Historical Park,24,033
+247,Chesapeake and Ohio Canal National Historical Park,24,043
+248,Chesapeake and Ohio Canal National Historical Park,51,153
+249,Chesapeake and Ohio Canal National Historical Park,54,065
+250,Chickamauga and Chattanooga National Military Park,13,047
+251,Chickamauga and Chattanooga National Military Park,13,083
+252,Chickamauga and Chattanooga National Military Park,13,295
+253,Chickamauga and Chattanooga National Military Park,47,065
+254,Chickasaw National Recreation Area,40,099
+255,Chiricahua National Monument,04,003
+256,Christiansted National Historic Site,78,010
+257,City of Rocks National Reserve,16,031
+258,Clara Barton National Historic Site,24,031
+259,Colonial National Historical Park,51,073
+260,Colonial National Historical Park,51,095
+261,Colonial National Historical Park,51,181
+262,Colonial National Historical Park,51,199
+263,Colonial National Historical Park,51,830
+264,Colorado National Monument,08,077
+265,Congaree National Park,45,017
+266,Congaree National Park,45,079
+267,Congaree National Park,45,085
+268,Constitution Gardens,11,001
+269,Coronado National Memorial,04,003
+270,Cowpens National Battlefield,45,021
+271,Crater Lake National Park,41,019
+272,Crater Lake National Park,41,029
+273,Crater Lake National Park,41,035
+274,Craters of the Moon National Monument,16,013
+275,Craters of the Moon National Monument,16,023
+276,Craters of the Moon National Preserve,16,013
+277,Craters of the Moon National Preserve,16,023
+278,Craters of the Moon National Preserve,16,063
+279,Craters of the Moon National Preserve,16,067
+280,Craters of the Moon National Preserve,16,077
+281,Cumberland Gap National Historical Park,21,013
+282,Cumberland Gap National Historical Park,21,095
+283,Cumberland Gap National Historical Park,47,025
+284,Cumberland Gap National Historical Park,51,105
+285,Cumberland Island National Seashore,13,039
+286,Curecanti National Recreation Area,08,051
+287,Curecanti National Recreation Area,08,085
+288,Cuyahoga Valley National Park,39,035
+289,Cuyahoga Valley National Park,39,153
+290,Dayton Aviation Heritage National Historical Park,39,057
+291,Dayton Aviation Heritage National Historical Park,39,113
+292,De Soto National Memorial,12,081
+293,Death Valley National Park,06,027
+294,Death Valley National Park,06,071
+295,Death Valley National Park,32,009
+296,Death Valley National Park,32,023
+297,Delaware Water Gap National Recreation Area,34,037
+298,Delaware Water Gap National Recreation Area,34,041
+299,Delaware Water Gap National Recreation Area,42,089
+300,Delaware Water Gap National Recreation Area,42,095
+301,Delaware Water Gap National Recreation Area,42,103
+302,Denali National Park,02,068
+303,Denali National Park,02,170
+304,Denali National Preserve,02,068
+305,Denali National Preserve,02,170
+306,Denali National Preserve,02,290
+307,Devils Postpile National Monument,06,039
+308,Devils Tower National Monument,56,011
+309,Dinosaur National Monument,08,081
+310,Dinosaur National Monument,49,047
+311,Dry Tortugas National Park,12,087
+312,Ebey's Landing National Historical Reserve,53,029
+313,Effigy Mounds National Monument,19,005
+314,Effigy Mounds National Monument,19,043
+315,Eisenhower National Historic Site,42,001
+316,El Malpais National Monument,35,006
+317,El Morro National Monument,35,006
+318,Eleanor Roosevelt National Historic Site,36,027
+319,Eugene O'Neill National Historic Site,06,013
+320,Everglades National Park,12,021
+321,Everglades National Park,12,086
+322,Everglades National Park,12,087
+323,Fire Island National Seashore,36,103
+324,First State National Historical Park,10,001
+325,First State National Historical Park,10,003
+326,First State National Historical Park,42,045
+327,Flight 93 National Memorial,42,111
+328,Florissant Fossil Beds National Monument,08,119
+329,Fort Bowie National Historic Site,04,003
+330,Fort Caroline National Memorial,12,031
+331,Fort Davis National Historic Site,48,243
+332,Fort Donelson National Battlefield,21,035
+333,Fort Donelson National Battlefield,47,079
+334,Fort Donelson National Battlefield,47,161
+335,Fort Frederica National Monument,13,127
+336,Fort Laramie National Historic Site,56,015
+337,Fort Larned National Historic Site,20,145
+338,Fort Matanzas National Monument,12,109
+339,Fort McHenry National Monument and Historic Shrine,24,510
+340,Fort Monroe National Monument,51,650
+341,Fort Necessity National Battlefield,42,051
+342,Fort Point National Historic Site,06,075
+343,Fort Pulaski National Monument,13,051
+344,Fort Raleigh National Historic Site,37,055
+345,Fort Scott National Historic Site,20,011
+346,Fort Smith National Historic Site,05,131
+347,Fort Smith National Historic Site,40,135
+348,Fort Stanwix National Monument,36,065
+349,Fort Sumter National Monument,45,019
+350,Fort Union National Monument,35,033
+351,Fort Union Trading Post National Historic Site,30,083
+352,Fort Union Trading Post National Historic Site,30,085
+353,Fort Union Trading Post National Historic Site,38,053
+354,Fort Union Trading Post National Historic Site,38,105
+355,Fort Vancouver National Historic Site,41,005
+356,Fort Vancouver National Historic Site,53,011
+357,Fort Washington Park,24,033
+358,Fossil Butte National Monument,56,023
+359,Franklin Delano Roosevelt Memorial,11,001
+360,Frederick Douglass National Historic Site,11,001
+361,Frederick Law Olmsted National Historic Site,25,021
+362,Fredericksburg,51,630
+363,Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park,51,033
+364,Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park,51,137
+365,Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park,51,177
+366,Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park,51,179
+367,Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park,51,630
+368,Friendship Hill National Historic Site,42,051
+369,Gates of the Arctic National Park,02,185
+370,Gates of the Arctic National Park,02,188
+371,Gates of the Arctic National Park,02,290
+372,Gates of the Arctic National Preserve,02,185
+373,Gates of the Arctic National Preserve,02,188
+374,Gates of the Arctic National Preserve,02,290
+375,Gateway National Recreation Area,34,025
+376,Gateway National Recreation Area,36,047
+377,Gateway National Recreation Area,36,081
+378,Gateway National Recreation Area,36,085
+379,Gauley River National Recreation Area,54,019
+380,Gauley River National Recreation Area,54,067
+381,George Rogers Clark National Historical Park,18,083
+382,George Washington Birthplace National Monument,51,193
+383,George Washington Carver National Monument,29,145
+384,George Washington Memorial Parkway,11,001
+385,George Washington Memorial Parkway,24,031
+386,George Washington Memorial Parkway,24,033
+387,George Washington Memorial Parkway,51,013
+388,George Washington Memorial Parkway,51,059
+389,George Washington Memorial Parkway,51,510
+390,Gettysburg National Military Park,42,001
+391,Gila Cliff Dwellings National Monument,35,003
+392,Glacier Bay National Park,02,100
+393,Glacier Bay National Park,02,105
+394,Glacier Bay National Park,02,282
+395,Glacier Bay National Preserve,02,282
+396,Glacier National Park,30,029
+397,Glacier National Park,30,035
+398,Glen Canyon National Recreation Area,04,005
+399,Glen Canyon National Recreation Area,49,017
+400,Glen Canyon National Recreation Area,49,025
+401,Glen Canyon National Recreation Area,49,037
+402,Glen Canyon National Recreation Area,49,055
+403,Golden Gate National Recreation Area,06,041
+404,Golden Gate National Recreation Area,06,075
+405,Golden Gate National Recreation Area,06,081
+406,Golden Spike National Historic Site,49,003
+407,Governors Island National Monument,36,061
+408,Grand Canyon National Park,04,005
+409,Grand Canyon National Park,04,015
+410,Grand Portage National Monument,27,031
+411,Grand Teton National Park,56,039
+412,Grant-Kohrs Ranch National Historic Site,30,077
+413,Great Basin National Park,32,033
+414,Great Sand Dunes National Park,08,003
+415,Great Sand Dunes National Park,08,109
+416,Great Sand Dunes National Preserve,08,003
+417,Great Sand Dunes National Preserve,08,027
+418,Great Sand Dunes National Preserve,08,055
+419,Great Sand Dunes National Preserve,08,109
+420,Great Smoky Mountains National Park,37,075
+421,Great Smoky Mountains National Park,37,087
+422,Great Smoky Mountains National Park,37,173
+423,Great Smoky Mountains National Park,47,009
+424,Great Smoky Mountains National Park,47,029
+425,Great Smoky Mountains National Park,47,155
+426,Greenbelt Park,24,033
+427,Guadalupe Mountains National Park,48,109
+428,Guadalupe Mountains National Park,48,229
+429,Guilford Courthouse National Military Park,37,081
+430,Gulf Islands National Seashore,12,033
+431,Gulf Islands National Seashore,12,091
+432,Gulf Islands National Seashore,12,113
+433,Gulf Islands National Seashore,28,047
+434,Gulf Islands National Seashore,28,059
+435,Hagerman Fossil Beds National Monument,16,047
+436,Hagerman Fossil Beds National Monument,16,083
+437,Haleakala National Park,15,009
+438,Hampton National Historic Site,24,005
+439,Harpers Ferry National Historical Park,24,021
+440,Harpers Ferry National Historical Park,24,043
+441,Harpers Ferry National Historical Park,51,107
+442,Harpers Ferry National Historical Park,54,037
+443,Harriet Tubman Underground Railroad National Historical Park,24,019
+444,Harry S Truman National Historic Site,29,095
+445,Hawai'i Volcanoes National Park,15,001
+446,Herbert Hoover National Historic Site,19,031
+447,Hohokam Pima National Monument,04,021
+448,Home of Franklin D. Roosevelt National Historic Site,36,027
+449,Homestead National Monument,31,067
+450,Honouliuli National Monument,15,003
+451,Hopewell Culture National Historical Park,39,141
+452,Hopewell Furnace National Historic Site,42,011
+453,Hopewell Furnace National Historic Site,42,029
+454,Horseshoe Bend National Military Park,01,123
+455,Hot Springs National Park,05,051
+456,Hovenweep National Monument,08,083
+457,Hovenweep National Monument,49,037
+458,Hubbell Trading Post National Historic Site,04,001
+459,Ice Age National Scenic Trail,55,025
+460,Illinois and Michigan Canal National Heritage Corridor,17,011
+461,Illinois and Michigan Canal National Heritage Corridor,17,031
+462,Illinois and Michigan Canal National Heritage Corridor,17,043
+463,Illinois and Michigan Canal National Heritage Corridor,17,063
+464,Illinois and Michigan Canal National Heritage Corridor,17,099
+465,Illinois and Michigan Canal National Heritage Corridor,17,197
+466,Independence National Historical Park,42,101
+467,Indiana Dunes National Lakeshore,18,089
+468,Indiana Dunes National Lakeshore,18,091
+469,Indiana Dunes National Lakeshore,18,127
+470,Isle Royale National Park,26,083
+471,Jean Lafitte National Historical Park and Preserve,22,051
+472,Jean Lafitte National Historical Park and Preserve,22,055
+473,Jean Lafitte National Historical Park and Preserve,22,057
+474,Jean Lafitte National Historical Park and Preserve,22,071
+475,Jean Lafitte National Historical Park and Preserve,22,087
+476,Jean Lafitte National Historical Park and Preserve,22,097
+477,Jefferson National Expansion Memorial,17,163
+478,Jefferson National Expansion Memorial,29,510
+479,Jewel Cave National Monument,46,033
+480,Jimmy Carter National Historic Site,13,261
+481,"John D. Rockefeller, Jr., Memorial Parkway",56,039
+482,John Day Fossil Beds National Monument,41,023
+483,John Day Fossil Beds National Monument,41,069
+484,John Fitzgerald Kennedy National Historic Site,25,021
+485,John Muir National Historic Site,06,013
+486,Johnstown Flood National Memorial,42,021
+487,Joshua Tree National Park,06,065
+488,Joshua Tree National Park,06,071
+489,Kalaupapa National Historical Park,15,005
+490,Kalaupapa National Historical Park,15,009
+491,Kaloko-Honokohau National Historical Park,15,001
+492,Katahdin Woods And Waters National Monument,23,019
+493,Katahdin Woods And Waters National Monument,23,021
+494,Katmai National Park,02,060
+495,Katmai National Park,02,122
+496,Katmai National Park,02,150
+497,Katmai National Park,02,164
+498,Katmai National Preserve,02,122
+499,Katmai National Preserve,02,164
+500,Kenai Fjords National Park,02,122
+501,Kennesaw Mountain National Battlefield Park,13,067
+502,Keweenaw National Historical Park,26,061
+503,Kings Canyon National Park,06,019
+504,Kings Canyon National Park,06,027
+505,Kings Canyon National Park,06,107
+506,Kings Mountain National Military Park,45,021
+507,Kings Mountain National Military Park,45,091
+508,Klondike Gold Rush National Historical Park,02,230
+509,Knife River Indian Villages National Historic Site,38,057
+510,Kobuk Valley National Park,02,188
+511,Korean War Veterans Memorial,11,001
+512,Lake Chelan National Recreation Area,53,007
+513,Lake Chelan National Recreation Area,53,047
+514,Lake Clark National Park,02,050
+515,Lake Clark National Park,02,122
+516,Lake Clark National Park,02,164
+517,Lake Clark National Park,02,170
+518,Lake Clark National Preserve,02,050
+519,Lake Clark National Preserve,02,122
+520,Lake Clark National Preserve,02,164
+521,Lake Mead National Recreation Area,04,005
+522,Lake Mead National Recreation Area,04,015
+523,Lake Mead National Recreation Area,32,003
+524,Lake Meredith National Recreation Area,48,233
+525,Lake Meredith National Recreation Area,48,341
+526,Lake Meredith National Recreation Area,48,375
+527,Lake Roosevelt National Recreation Area,53,019
+528,Lake Roosevelt National Recreation Area,53,025
+529,Lake Roosevelt National Recreation Area,53,043
+530,Lake Roosevelt National Recreation Area,53,047
+531,Lake Roosevelt National Recreation Area,53,065
+532,Lassen Volcanic National Park,06,035
+533,Lassen Volcanic National Park,06,063
+534,Lassen Volcanic National Park,06,089
+535,Lassen Volcanic National Park,06,103
+536,Lava Beds National Monument,06,049
+537,Lava Beds National Monument,06,093
+538,Lewis and Clark National Historic Trail,31,131
+539,Lewis and Clark National Historical Park,41,007
+540,Lewis and Clark National Historical Park,53,049
+541,Lincoln Boyhood National Memorial,18,147
+542,Lincoln Home National Historic Site,17,167
+543,Lincoln Memorial,11,001
+544,Little Bighorn Battlefield National Monument,30,003
+545,Little River Canyon National Preserve,01,019
+546,Little River Canyon National Preserve,01,049
+547,Longfellow House-Washington's Headquarters National Historic Site,25,017
+548,Lowell National Historical Park,25,017
+549,Lower Saint Croix National Scenic Riverway,27,025
+550,Lower Saint Croix National Scenic Riverway,27,163
+551,Lower Saint Croix National Scenic Riverway,55,095
+552,Lower Saint Croix National Scenic Riverway,55,109
+553,Lyndon B. Johnson National Historical Park,48,031
+554,Lyndon B. Johnson National Historical Park,48,171
+555,Lyndon Baines Johnson Memorial Grove on the Potomac,11,001
+556,Mammoth Cave National Park,21,009
+557,Mammoth Cave National Park,21,061
+558,Mammoth Cave National Park,21,099
+559,Manassas National Battlefield Park,51,059
+560,Manassas National Battlefield Park,51,153
+561,Manhattan Project National Historical Park,35,028
+562,Manhattan Project National Historical Park,47,001
+563,Manhattan Project National Historical Park,47,145
+564,Manhattan Project National Historical Park,53,005
+565,Manzanar National Historic Site,06,027
+566,Marsh-Billings-Rockefeller National Historical Park,50,027
+567,"Martin Luther King, Jr., Memorial",11,001
+568,"Martin Luther King, Jr., National Historic Site",13,121
+569,Martin Van Buren National Historic Site,36,021
+570,Mesa Verde National Park,08,083
+571,Minidoka National Historic Site,16,053
+572,Minidoka National Historic Site,53,035
+573,Minute Man National Historical Park,25,017
+574,Minuteman Missile National Historic Site,46,071
+575,Minuteman Missile National Historic Site,46,103
+576,Mississippi National River and Recreation Area,27,003
+577,Mississippi National River and Recreation Area,27,037
+578,Mississippi National River and Recreation Area,27,053
+579,Mississippi National River and Recreation Area,27,123
+580,Mississippi National River and Recreation Area,27,141
+581,Mississippi National River and Recreation Area,27,163
+582,Mississippi National River and Recreation Area,27,171
+583,Mississippi National River and Recreation Area,55,093
+584,Missouri National Recreation River,31,015
+585,Missouri National Recreation River,31,027
+586,Missouri National Recreation River,31,051
+587,Missouri National Recreation River,31,107
+588,Missouri National Recreation River,46,009
+589,Missouri National Recreation River,46,023
+590,Missouri National Recreation River,46,027
+591,Missouri National Recreation River,46,053
+592,Missouri National Recreation River,46,127
+593,Missouri National Recreation River,46,135
+594,Mojave National Preserve,06,071
+595,Mojave National Preserve,32,003
+596,Monocacy National Battlefield,24,021
+597,Montezuma Castle National Monument,04,025
+598,Moores Creek National Battlefield,37,141
+599,Morristown National Historical Park,34,027
+600,Morristown National Historical Park,34,035
+601,Mount Rainier National Park,53,041
+602,Mount Rainier National Park,53,053
+603,Mount Rainier National Park,53,077
+604,Mount Rushmore National Memorial,46,103
+605,Muir Woods National Monument,06,041
+606,Natchez National Historical Park,28,001
+607,Natchez Trace Parkway,01,033
+608,Natchez Trace Parkway,01,077
+609,Natchez Trace Parkway,28,001
+610,Natchez Trace Parkway,28,007
+611,Natchez Trace Parkway,28,017
+612,Natchez Trace Parkway,28,019
+613,Natchez Trace Parkway,28,021
+614,Natchez Trace Parkway,28,025
+615,Natchez Trace Parkway,28,049
+616,Natchez Trace Parkway,28,057
+617,Natchez Trace Parkway,28,063
+618,Natchez Trace Parkway,28,079
+619,Natchez Trace Parkway,28,081
+620,Natchez Trace Parkway,28,089
+621,Natchez Trace Parkway,28,115
+622,Natchez Trace Parkway,28,117
+623,Natchez Trace Parkway,28,121
+624,Natchez Trace Parkway,28,141
+625,Natchez Trace Parkway,28,155
+626,Natchez Trace Parkway,47,037
+627,Natchez Trace Parkway,47,081
+628,Natchez Trace Parkway,47,099
+629,Natchez Trace Parkway,47,101
+630,Natchez Trace Parkway,47,119
+631,Natchez Trace Parkway,47,181
+632,Natchez Trace Parkway,47,187
+633,National Capital Parks,11,001
+634,National Capital Parks,24,003
+635,National Capital Parks,24,031
+636,National Capital Parks,24,033
+637,National Mall,11,001
+638,National Park of American Samoa,60,010
+639,National Park of American Samoa,60,020
+640,Natural Bridges National Monument,49,037
+641,Navajo National Monument,04,005
+642,Navajo National Monument,04,017
+643,New Bedford Whaling National Historical Park,25,005
+644,New River Gorge National River,54,019
+645,New River Gorge National River,54,081
+646,New River Gorge National River,54,089
+647,Nez Perce National Historical Park,16,035
+648,Nez Perce National Historical Park,16,049
+649,Nez Perce National Historical Park,16,069
+650,Nez Perce National Historical Park,30,005
+651,Nez Perce National Historical Park,41,063
+652,Nez Perce National Historical Park,53,003
+653,Nicodemus National Historic Site,20,065
+654,Ninety Six National Historic Site,45,047
+655,Niobrara National Scenic River,31,017
+656,Niobrara National Scenic River,31,031
+657,Niobrara National Scenic River,31,103
+658,Niobrara National Scenic River,31,149
+659,Noatak National Preserve,02,185
+660,Noatak National Preserve,02,188
+661,North Cascades National Park,53,007
+662,North Cascades National Park,53,047
+663,North Cascades National Park,53,057
+664,North Cascades National Park,53,073
+665,Obed Wild and Scenic River,47,035
+666,Obed Wild and Scenic River,47,049
+667,Obed Wild and Scenic River,47,129
+668,Ocmulgee National Monument,13,021
+669,Olympic National Park,53,009
+670,Olympic National Park,53,027
+671,Olympic National Park,53,031
+672,Olympic National Park,53,045
+673,Oregon Caves National Monument and Preserve,41,033
+674,Organ Pipe Cactus National Monument,04,019
+675,Ozark National Scenic Riverway,29,035
+676,Ozark National Scenic Riverway,29,065
+677,Ozark National Scenic Riverway,29,091
+678,Ozark National Scenic Riverway,29,181
+679,Ozark National Scenic Riverway,29,203
+680,Ozark National Scenic Riverway,29,215
+681,Padre Island National Seashore,48,261
+682,Padre Island National Seashore,48,273
+683,Padre Island National Seashore,48,489
+684,Palo Alto Battlefield National Historical Park,48,061
+685,Paterson Great Falls National Historical Park,34,031
+686,Pea Ridge National Military Park,05,007
+687,Pecos National Historical Park,35,047
+688,Pecos National Historical Park,35,049
+689,Pennsylvania Avenue National Historic Site,11,001
+690,Perry's Victory and International Peace Memorial,39,123
+691,Petersburg National Battlefield,51,053
+692,Petersburg National Battlefield,51,149
+693,Petersburg National Battlefield,51,670
+694,Petersburg National Battlefield,51,730
+695,Petrified Forest National Park,04,001
+696,Petrified Forest National Park,04,017
+697,Petroglyph National Monument,35,001
+698,Pictured Rocks National Lakeshore,26,003
+699,Pinnacles National Park,06,053
+700,Pinnacles National Park,06,069
+701,Pipe Spring National Monument,04,015
+702,Pipestone National Monument,27,117
+703,Piscataway Park,24,017
+704,Piscataway Park,24,033
+705,Point Reyes National Seashore,06,041
+706,Port Chicago Naval Magazine National Memorial,06,013
+707,Poverty Point National Monument,22,035
+708,Poverty Point National Monument,22,123
+709,Presidio of San Francisco,06,075
+710,Prince William Forest Park,51,153
+711,Prince William Forest Park,51,179
+712,Pu'uhonua o Honaunau National Historical Park,15,001
+713,Pu'ukohola Heiau National Historic Site,15,001
+714,Rainbow Bridge National Monument,49,037
+715,Redwood National Park,06,015
+716,Redwood National Park,06,023
+717,Richmond National Battlefield Park,51,033
+718,Richmond National Battlefield Park,51,041
+719,Richmond National Battlefield Park,51,085
+720,Richmond National Battlefield Park,51,087
+721,Richmond National Battlefield Park,51,760
+722,Rio Grande Wild and Scenic River,48,043
+723,Rio Grande Wild and Scenic River,48,443
+724,Rio Grande Wild and Scenic River,48,465
+725,River Raisin National Battlefield Park,26,115
+726,Rock Creek Park,11,001
+727,Rock Creek Park,24,031
+728,Rock Creek Park,24,033
+729,Rocky Mountain National Park,08,013
+730,Rocky Mountain National Park,08,049
+731,Rocky Mountain National Park,08,057
+732,Rocky Mountain National Park,08,069
+733,Roger Williams National Memorial,44,007
+734,Ronald Reagan Boyhood Home National Historic Site,17,103
+735,Rosie the Riveter/World War II Home Front National Historical Park,06,013
+736,Ross Lake National Recreation Area,53,057
+737,Ross Lake National Recreation Area,53,073
+738,Russell Cave National Monument,01,071
+739,Sagamore Hill National Historic Site,36,059
+740,Saguaro National Park,04,019
+741,Saint-Gaudens National Historic Site,33,019
+742,Saint Croix Island International Historic Site,23,029
+743,Saint Croix National Scenic Riverway,27,025
+744,Saint Croix National Scenic Riverway,27,115
+745,Saint Croix National Scenic Riverway,55,007
+746,Saint Croix National Scenic Riverway,55,013
+747,Saint Croix National Scenic Riverway,55,031
+748,Saint Croix National Scenic Riverway,55,095
+749,Saint Croix National Scenic Riverway,55,113
+750,Saint Croix National Scenic Riverway,55,129
+751,Salem Maritime National Historic Site,25,009
+752,Salinas Pueblo Missions National Monument,35,053
+753,Salinas Pueblo Missions National Monument,35,057
+754,Salt River Bay National Historical Park and Ecological Preserve,78,010
+755,San Antonio Missions National Historical Park,48,029
+756,San Antonio Missions National Historical Park,48,493
+757,San Francisco Maritime National Historical Park,06,075
+758,San Juan Island National Historical Park,53,055
+759,San Juan National Historic Site,72,127
+760,San Juan National Historic Site,72,137
+761,Sand Creek Massacre National Historic Site,08,061
+762,Santa Monica Mountains National Recreation Area,06,037
+763,Santa Monica Mountains National Recreation Area,06,111
+764,Saratoga National Historical Park,36,091
+765,Saugus Iron Works National Historic Site,25,009
+766,Scotts Bluff National Monument,31,157
+767,Selma to Montgomery National Historic Trail,01,085
+768,Sequoia National Park,06,027
+769,Sequoia National Park,06,107
+770,Sewall-Belmont House National Historic Site,11,001
+771,Shenandoah National Park,51,003
+772,Shenandoah National Park,51,015
+773,Shenandoah National Park,51,079
+774,Shenandoah National Park,51,113
+775,Shenandoah National Park,51,139
+776,Shenandoah National Park,51,157
+777,Shenandoah National Park,51,165
+778,Shenandoah National Park,51,187
+779,Shiloh National Battlefield,47,071
+780,Sitka National Historical Park,02,220
+781,Sleeping Bear Dunes National Lakeshore,26,019
+782,Sleeping Bear Dunes National Lakeshore,26,089
+783,Springfield Armory National Historic Site,25,013
+784,Statue Of Liberty National Monument,36,061
+785,Steamtown National Historic Site,42,069
+786,Stones River National Battlefield,47,149
+787,Stonewall National Monument,36,061
+788,Sunset Crater Volcano National Monument,04,005
+789,Tallgrass Prairie National Preserve,20,017
+790,Theodore Roosevelt Island National Memorial,11,001
+791,Theodore Roosevelt National Park,38,007
+792,Theodore Roosevelt National Park,38,053
+793,Thomas Edison National Historical Park,34,013
+794,Thomas Jefferson Memorial,11,001
+795,Thomas Stone National Historic Site,24,017
+796,Timpanogos Cave National Monument,49,049
+797,Timucuan Ecological and Historic Preserve,12,031
+798,Timucuan Ecological and Historic Preserve,12,089
+799,Tonto National Monument,04,007
+800,Tule Springs Fossil Beds National Monument,32,003
+801,Tumacacori National Historical Park,04,023
+802,Tupelo National Battlefield,28,081
+803,Tuskegee Airmen National Historic Site,01,087
+804,Tuskegee Institute National Historic Site,01,087
+805,Tuzigoot National Monument,04,025
+806,Ulysses S. Grant National Historic Site,29,189
+807,Upper Delaware Scenic and Recreational River,36,025
+808,Upper Delaware Scenic and Recreational River,36,071
+809,Upper Delaware Scenic and Recreational River,36,105
+810,Upper Delaware Scenic and Recreational River,42,103
+811,Upper Delaware Scenic and Recreational River,42,127
+812,Valles Caldera National Preserve,35,028
+813,Valles Caldera National Preserve,35,039
+814,Valles Caldera National Preserve,35,043
+815,Valley Forge National Historical Park,42,029
+816,Valley Forge National Historical Park,42,091
+817,Vanderbilt Mansion National Historic Site,36,027
+818,Vicksburg National Military Park,28,149
+819,Virgin Islands Coral Reef National Monument,78,020
+820,Virgin Islands National Park,78,020
+821,Voyageurs National Park,27,071
+822,Voyageurs National Park,27,137
+823,Waco Mammoth National Monument,48,309
+824,Walnut Canyon National Monument,04,005
+825,War in the Pacific,66,010
+826,Washita Battlefield National Historic Site,40,129
+827,Weir Farm National Historic Site,09,001
+828,Whiskeytown-Shasta-Trinity National Recreation Area,06,089
+829,Whiskeytown-Shasta-Trinity National Recreation Area,06,105
+830,White Sands National Monument,35,013
+831,White Sands National Monument,35,035
+832,Whitman Mission National Historic Site,53,071
+833,Wilson's Creek National Battlefield,29,043
+834,Wilson's Creek National Battlefield,29,077
+835,Wind Cave National Park,46,033
+836,Wolf Trap National Park for the Performing Arts,51,059
+837,World War II Valor in the Pacific National Monument,06,049
+838,World War II Valor in the Pacific National Monument,15,003
+839,Wrangell-St. Elias National Park,02,261
+840,Wrangell-St. Elias National Park,02,282
+841,Wrangell-St. Elias National Preserve,02,240
+842,Wrangell-St. Elias National Preserve,02,261
+843,Wrangell-St. Elias National Preserve,02,282
+844,Wright Brothers National Memorial,37,055
+845,Wupatki National Monument,04,005
+846,Yellowstone National Park,16,043
+847,Yellowstone National Park,30,031
+848,Yellowstone National Park,30,067
+849,Yellowstone National Park,56,029
+850,Yellowstone National Park,56,039
+851,Yosemite National Park,06,039
+852,Yosemite National Park,06,043
+853,Yosemite National Park,06,051
+854,Yosemite National Park,06,109
+855,Yucca House National Monument,08,083
+856,Yukon-Charley Rivers National Preserve,02,090
+857,Yukon-Charley Rivers National Preserve,02,240
+858,Yukon-Charley Rivers National Preserve,02,290
+859,Zion National Park,49,021
+860,Zion National Park,49,025
+861,Zion National Park,49,053
